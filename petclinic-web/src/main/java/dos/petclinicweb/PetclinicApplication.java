@@ -1,4 +1,4 @@
-package dos.petclinic;
+package dos.petclinicweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

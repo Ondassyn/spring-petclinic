@@ -1,4 +1,4 @@
-package dos.petclinic.model;
+package dos.petclinicdata.model;
 
 public class Person {
     private String firstName;
